@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lec5AudDemo</string>
+    <string name="txtSplashImage">Bagpipes</string>
+    <string name="txtViewTitle">Song List</string>
+</resources>
